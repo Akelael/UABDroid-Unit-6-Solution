@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Unit6Example</string>
+    <string name="map_overlay">Mapa Activitats 1 y 2</string>
+    <string name="map_geocoder">Mapa Activitat 3</string>
+
+</resources>
